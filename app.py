@@ -114,5 +114,7 @@ st.pyplot(fig)
 # Conclusion
 st.markdown("## 🔍 Key Takeaways")
 st.write("""
-
+- **The Human Resources department has the highest attrition rate, followed by R&D and Sales.**
+- **Employees who travel frequently for business have the highest attrition rate, while those who travel rarely or do not travel have significantly lower attrition.**
+- **The monthly income distribution is right-skewed, indicating that most employees earn lower salaries, but there is a smaller group with high earnings. This could impact attrition, with lower-income employees possibly leaving more frequently.**
 """)
